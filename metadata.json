@@ -1,0 +1,7 @@
+{
+  "name": "StockSync",
+  "description": "A comprehensive multi-supermarket inventory management system connecting customers, managers, and staff in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
